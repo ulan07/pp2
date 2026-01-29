@@ -9,5 +9,6 @@ int main(){
     for(int i=0;i<2;i++){
         cout<<a;
     } 
+    cout<<"change smth";
     return 0;
 }
