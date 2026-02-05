@@ -1,4 +1,4 @@
-x = 5
-y = "John"
-print(x)
-print(y)
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")

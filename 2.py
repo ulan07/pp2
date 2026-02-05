@@ -1,3 +1,3 @@
-x = 4       # x is of type int
-x = "Sally" # x is now of type str
-print(x)
+number = 15
+if number > 0:
+  print("The number is positive")

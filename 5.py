@@ -1,3 +1,4 @@
-x = "John"
-# is the same as
-x = 'John'
+i = 1
+while i < 6:
+  print(i)
+  i += 1

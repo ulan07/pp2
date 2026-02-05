@@ -1,4 +1,3 @@
-x = 5
-y = "John"
-print(type(x))
-print(type(y))
+is_logged_in = True
+if is_logged_in:
+  print("Welcome back!")
