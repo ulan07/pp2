@@ -37,6 +37,7 @@ while running:
             running = False
 
     # текущее время
+    screen.fill((255,255,255))
     now = datetime.datetime.now()
     minutes = now.minute
     seconds = now.second
