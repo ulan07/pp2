@@ -1,0 +1,87 @@
+[
+  {
+    "id": 2,
+    "name": "Alice Johnson",
+    "email": "alice.j@work.kz",
+    "birthday": "1985-11-20",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "77029876543",
+        "type": "work"
+      },
+      {
+        "phone": "77029876543",
+        "type": "work"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Bob Williams",
+    "email": "bob.w@mail.com",
+    "birthday": "1992-03-08",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "77031112233",
+        "type": "home"
+      },
+      {
+        "phone": "77031112233",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Diana Brown",
+    "email": "diana.b@gmail.com",
+    "birthday": "1995-07-25",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "77044445566",
+        "type": "mobile"
+      },
+      {
+        "phone": "77044445566",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john.smith@gmail.com",
+    "birthday": "1990-05-15",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "77011234567",
+        "type": "mobile"
+      },
+      {
+        "phone": "77011234567",
+        "type": "mobile"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Michael Davis",
+    "email": "m.davis@company.kz",
+    "birthday": "1988-01-30",
+    "group": "Work",
+    "phones": [
+      {
+        "phone": "77055556677",
+        "type": "work"
+      },
+      {
+        "phone": "77055556677",
+        "type": "work"
+      }
+    ]
+  }
+]

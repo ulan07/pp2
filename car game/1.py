@@ -143,8 +143,8 @@ class Car(pygame.sprite.Sprite):
         pygame.draw.rect(self.image, (30, 30, 30),
                          (4, 8, self.W-8, self.H-16), 2, border_radius=6)
         pygame.draw.rect(self.image, CYAN,   (7,  12, 22, 12), border_radius=3)
-        pygame.draw.rect(self.image, YELLOW, (4,  self.H-20, 10, 8), border_radius=2)
-        pygame.draw.rect(self.image, YELLOW, (self.W-14, self.H-20, 10, 8), border_radius=2)
+        pygame.draw.rect(self.image, YELLOW, (4,  self.H-50, 10, 8), border_radius=2)
+        pygame.draw.rect(self.image, YELLOW, (self.W-14, self.H-50, 10, 8), border_radius=2)
 
     def set_color(self, color):
         self._color = color
